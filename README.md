@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6dmw1djN2cWY5eDNiZGdleDc2eWZpcGhjMmVuamxhc2RldTZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYZkY9HeKgofpQnOUl/giphy.gif" width="400">
 </p>
+Hi my dear friend,
 
-Customer Success Manager & Technical Support Lead with 6+ years of experience in FinTech, SaaS, and Web3. I help companies reduce developer workload, enhance customer satisfaction, and optimize support operations for growth.
+My name is Daria, I am Customer Success Manager & Technical Support Lead with 6+ years of experience in FinTech, SaaS, and Web3. I help companies reduce developer workload, enhance customer satisfaction, and optimize support operations for growth.
 
 I specialize in technical support, API integrations, process automation, and customer success strategies. My expertise bridges the gap between engineering, product, and customer teams to drive operational efficiency and retention.
 
