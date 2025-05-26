@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="https://your-image-link/welcome-header.gif" alt="WELCOME" width="100%" />
 
-<!--
-**dariatuz/dariatuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-image-link/coding-dog.gif" height="50">
+  <strong>i love code</strong> and <img src="https://your-image-link/unicorn.gif" height="50"> unicorns
+</p>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://your-image-link/under-construction.gif" />
+</p>
+
+---
+
+### ✨ Check out my latest:
+
+- [🚀 Supercharge App](https://your-app-link)
+- [📝 Latest Blog Post](https://your-blog-link)
+
+---
+
+<p align="center">
+  <img src="https://your-image-link/hit-counter.gif" />
+  <br/>
+  <img src="https://your-image-link/flame-bar.gif" width="80%" />
+</p>
