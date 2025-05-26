@@ -13,8 +13,7 @@
 
 ### ✨ Check out my latest:
 
-- [🚀 Supercharge App](https://your-app-link)
-- [📝 Latest Blog Post](https://your-blog-link)
+- [📝 Latest Linkedin Post](https://www.linkedin.com/posts/daria-tuzova_sql-cheatsheet-2025-activity-7324007739595112449-u4o_?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzc5x4BDq45CR2-_xZxQ7rF6rjJ9a3ykjE)
 
 ---
 
