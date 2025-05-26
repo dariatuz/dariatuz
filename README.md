@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6dmw1djN2cWY5eDNiZGdleDc2eWZpcGhjMmVuamxhc2RldTZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYZkY9HeKgofpQnOUl/giphy.gif" height="200">
-  <strong>I am learning to code, here you'll find my best efforts</strong> and <img src="https://your-image-link/unicorn.gif" height="50"> unicorns
+  <strong>I am learning to code, here you'll find my best efforts</strong> 
 </p>
 
 <hr />
