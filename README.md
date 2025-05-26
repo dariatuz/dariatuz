@@ -3,12 +3,6 @@
   <strong>I am learning to code, here you'll find my best efforts</strong> 
 </p>
 
-<hr />
-
-<p align="center">
-  <img src="https://your-image-link/under-construction.gif" />
-</p>
-
 ---
 
 ### ✨ Check out my latest:
